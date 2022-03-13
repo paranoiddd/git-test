@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("git的测试3-hot-fix");
         System.out.println("git的测试4-hot-fix");
         System.out.println("push 1");
+        System.out.println("pull 1");
     }
 }
