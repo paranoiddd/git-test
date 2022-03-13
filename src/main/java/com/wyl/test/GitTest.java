@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("git的测试");
         System.out.println("git的测试2");
         System.out.println("git的测试3");
+        System.out.println("git的测试4-hot-fix");
     }
 }
